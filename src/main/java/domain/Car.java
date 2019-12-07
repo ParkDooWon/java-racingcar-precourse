@@ -1,3 +1,12 @@
+/*
+ * 클래스명 : Car
+ * 
+ * version : 0.1
+ * 
+ * 날짜 : 2019.12.08
+ * 
+ * 작성자 : ParkDooWon
+ */
 package domain;
 
 public class Car {
@@ -8,5 +17,5 @@ public class Car {
         this.name = name;
     }
 
-    // 추가 기능 구현
+    // 異붽� 湲곕뒫 援ы쁽
 }
